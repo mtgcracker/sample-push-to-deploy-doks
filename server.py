@@ -1,5 +1,4 @@
 #server.py
-##################
 
 import os
 import http.server
